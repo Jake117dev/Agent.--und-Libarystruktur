@@ -14,7 +14,7 @@ Dieses Repository stellt den **Agenten** als zentrale Kommandobrücke vor, der s
 
 | Kürzel | Name                        | Funktion                                               |
 |--------|-----------------------------|--------------------------------------------------------|
-| C4     | Chattys_Four                | Agenten-Instanz (du & ich) mit Modulen & Dashboard     |
+| C4     | Chattys_Four                | Agenten-Instanz mit Modulen & Dashboard                |
 | CO     | Core_Utility                | Helferskripte & Basistechnologien                      |
 | D3     | Data_Drill_Down             | Analyse & Zugriff auf tieferliegende Systemdaten       |
 | T5     | Task_Transformation_Toolkit | Tasking, Automatisierung & KI-Erweiterungen            |
