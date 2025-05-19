@@ -1,1 +1,1 @@
-# Agent.--und-Libarystruktur
+# Agent- und Libarystruktur
