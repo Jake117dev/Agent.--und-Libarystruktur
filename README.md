@@ -1,4 +1,4 @@
-# Agent- und Libarystruktur
+# Agent- und Librarystruktur
 
 # USS - Universal Standard Structure
 
